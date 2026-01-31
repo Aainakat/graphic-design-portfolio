@@ -22,3 +22,10 @@ Focus: Visual hierarchy
 🔗 https://www.canva.com/design/DAGy2DnrXpY/3tiCmUAVGV44L8Wceec9KA/edit  
 Tool: Canva  
 Focus: Minimal & clean design
+
+### 🎨 UI / UX Design (Figma)
+
+🔗 https://www.figma.com/design/GR2SK5gpnez6v2jPl1hA1g/practice
+
+Tool: Figma  
+Focus: UI layout, spacing, and visual hierarchy
